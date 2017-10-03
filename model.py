@@ -3,7 +3,7 @@ class Dès(object):
     def __init__(self):
         self.Face = 0
         
-        
+    # utilisé liste des cartes avec les id, pas de base de donnée     
     # Start of user code -> properties/constructors for Dès class
 
     # End of user code
